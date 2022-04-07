@@ -1,0 +1,5 @@
+npx creat-react-app <namefolder>
+cd <namefolder>
+npm start
+ls -la
+rm -rf .git (.git repostiry löschen)
